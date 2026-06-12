@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "released": "2026-06-11",
-  "notes": "Update notifier: CC Explorer checks for newer releases on startup and shows an amber badge in the status bar with a link to the download page",
+  "version": "0.7.0",
+  "released": "2026-06-12",
+  "notes": "Asset resources are now displayed as a collapsible subfolder tree; path segments from the resource URI become folder nodes (collapsed by default), file leaves show the bullet dot icon, and missing files appear in red with a (missing) label \u2014 the URI column is removed for resource rows",
   "downloadUrl": "https://hexmet-my.sharepoint.com/:f:/g/personal/christian_grambs_leica-geosystems_com/IgBzg14RTv0gSZFQVDMecOfHAa4qDhcGd1P-juCm9jfhEYs?e=3fXMLz"
 }
