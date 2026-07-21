@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "released": "2026-06-30",
-  "notes": "CaptivateLogListener: TCP/IP log consumer that connects to Captivate and streams log output into the log window, with automatic reconnect",
+  "version": "0.8.1",
+  "released": "2026-07-21",
+  "notes": "Bump CC SDK to hxdm-common-component-workspaces/1.1.0-alpha.594",
   "downloadUrl": "https://hexmet-my.sharepoint.com/:f:/g/personal/christian_grambs_leica-geosystems_com/IgBzg14RTv0gSZFQVDMecOfHAa4qDhcGd1P-juCm9jfhEYs?e=usTMBR"
 }
