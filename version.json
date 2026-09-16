@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
-  "released": "2026-08-05",
-  "notes": "Downgrade CC SDK to hxdm-common-component-workspaces/1.1.0-alpha.592 to support CPT",
+  "version": "0.8.4",
+  "released": "2026-09-16",
+  "notes": "Downgrade CC SDK to hxdm-common-component-workspaces/1.0.0-beta.671 to match the version pinned on Captivate main",
   "downloadUrl": "https://hexmet-my.sharepoint.com/:f:/g/personal/christian_grambs_leica-geosystems_com/IgBzg14RTv0gSZFQVDMecOfHAa4qDhcGd1P-juCm9jfhEYs?e=usTMBR"
 }
