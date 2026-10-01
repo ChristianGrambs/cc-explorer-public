@@ -1,6 +1,6 @@
 {
-  "version": "0.8.4",
-  "released": "2026-09-16",
-  "notes": "Downgrade CC SDK to hxdm-common-component-workspaces/1.0.0-beta.671 to match the version pinned on Captivate main",
+  "version": "0.8.5",
+  "released": "2026-10-01",
+  "notes": "Download page link in the About dialog (Help > About)",
   "downloadUrl": "https://hexmet-my.sharepoint.com/:f:/g/personal/christian_grambs_leica-geosystems_com/IgBzg14RTv0gSZFQVDMecOfHAa4qDhcGd1P-juCm9jfhEYs?e=usTMBR"
 }
